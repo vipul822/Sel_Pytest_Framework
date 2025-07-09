@@ -3,16 +3,16 @@
 
 
 # Details :- 
-  Selenium Webdriver (Python)
-  Pytest
-  Structure - Modular 
+1. Selenium Webdriver (Python)
+2. Pytest
+3. Structure - Modular 
       Base / Webdriver Utils
       Pages
       Tests
           conftest
       Config
-  Framework Type - Hybrid
-  Design Pattern - POM
-  Test Runner - Pytest
-  Application - amazon.in  
+4. Framework Type - Hybrid
+5. Design Pattern - POM
+6. Test Runner - Pytest
+7. Application - amazon.in  
   
