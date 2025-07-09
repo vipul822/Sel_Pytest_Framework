@@ -1,4 +1,3 @@
-# Sel_Pytest_Framework
 # Sample Selenium (Python) Framework to automate basic flows on amazon.in using Pytest
 
 
